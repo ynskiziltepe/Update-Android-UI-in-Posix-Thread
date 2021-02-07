@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Update UI In Pthread</string>
+    <string name="update_ui_in_posix_thread">Update UI In POSIX Thread</string>
+    <string name="clear_ui_text_in_posix_thread">Clear UI Text In POSIX Thread</string>
+    <string name="explanation">The purpose of this application is to update the Android UI in Posix Thread</string>
+</resources>
